@@ -3,6 +3,5 @@
 ## Installation
 
 ```sh
-cd haihappen.zsh-theme
-./install.rb
+git clone git@github.com:haihappen/haihappen.zsh-theme.git && cd haihappen.zsh-theme && rake
 ```
