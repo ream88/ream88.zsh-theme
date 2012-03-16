@@ -3,5 +3,5 @@
 ## Installation
 
 ```sh
-git clone git@github.com:haihappen/haihappen.zsh-theme.git ~/.haihappen.zsh-theme.git && cd ~/.haihappen.zsh-theme && rake
+git clone git@github.com:haihappen/haihappen.zsh-theme.git ~/.haihappen.zsh-theme && cd ~/.haihappen.zsh-theme && rake
 ```
