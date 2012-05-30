@@ -1,4 +1,4 @@
-![Screenshot](http://f.cl.ly/items/1q0z02141I1S2H0A1G2M/haihappen.zsh-theme.png)
+![Screenshot](http://f.cl.ly/items/0q3p0l1y203M1w2H2D0B/~-Work-Other-rails.png)
 
 ## Installation
 
