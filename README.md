@@ -1,4 +1,4 @@
-![Screenshot](http://f.cl.ly/items/0q3p0l1y203M1w2H2D0B/~-Work-Other-rails.png)
+![Screenshot](https://www.evernote.com/shard/s42/sh/ce3ab77d-6818-428a-8ea7-b88cdcb2ddec/222fb59458a836c783c4cec0a0249047/res/aeae1997-c329-499c-aa8c-63d0b1d69c19/%7E-Code-Other-rails.png)
 
 ## Installation
 
