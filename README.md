@@ -3,7 +3,7 @@
 ## Installation
 
 ```sh
-git clone git://github.com/haihappen/haihappen.zsh-theme.git ~/.haihappen.zsh-theme && cd ~/.haihappen.zsh-theme && rake
+curl -s http://bit.ly/haihappen-zsh > ~/.oh-my-zsh/themes/haihappen.zsh-theme
 ```
 
 ## Copyright
