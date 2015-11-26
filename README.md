@@ -1,16 +1,16 @@
-![Screenshot](https://www.evernote.com/shard/s42/sh/ce3ab77d-6818-428a-8ea7-b88cdcb2ddec/222fb59458a836c783c4cec0a0249047/res/aeae1997-c329-499c-aa8c-63d0b1d69c19/%7E-Code-Other-rails.png)
+![Screenshot](https://cloud.githubusercontent.com/assets/14321/11421312/41cf7984-9434-11e5-883a-a718f9d0a69e.png)
 
 ## Installation
 
 ```sh
-curl -s https://raw.githubusercontent.com/haihappen/haihappen.zsh-theme/master/haihappen.zsh-theme > ~/.oh-my-zsh/themes/haihappen.zsh-theme
+curl -LO https://raw.githubusercontent.com/haihappen/haihappen.zsh-theme/master/haihappen.zsh-theme > ~/.oh-my-zsh/themes/haihappen.zsh-theme
 ```
 
 ## Copyright
 
 (The MIT license)
 
-Copyright (c) 2012-2014 Mario Uher
+Copyright (c) 2012-2015 Mario Uher
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
