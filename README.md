@@ -3,7 +3,7 @@
 ## Installation
 
 ```sh
-curl -LO https://raw.githubusercontent.com/haihappen/haihappen.zsh-theme/master/haihappen.zsh-theme > ~/.oh-my-zsh/themes/haihappen.zsh-theme
+curl -L https://raw.githubusercontent.com/haihappen/haihappen.zsh-theme/master/haihappen.zsh-theme > ~/.oh-my-zsh/themes/haihappen.zsh-theme
 ```
 
 ## Copyright
