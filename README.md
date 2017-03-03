@@ -3,14 +3,14 @@
 ## Installation
 
 ```sh
-curl -L https://raw.githubusercontent.com/haihappen/haihappen.zsh-theme/master/haihappen.zsh-theme > ~/.oh-my-zsh/themes/haihappen.zsh-theme
+curl -L https://raw.githubusercontent.com/ream88/ream88.zsh-theme/master/ream88.zsh-theme > ~/.oh-my-zsh/themes/ream88.zsh-theme
 ```
 
 ## Copyright
 
 (The MIT license)
 
-Copyright (c) 2012-2015 Mario Uher
+Copyright (c) 2012-2017 Mario Uher
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
