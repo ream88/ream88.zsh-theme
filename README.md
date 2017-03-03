@@ -1,4 +1,4 @@
-![Screenshot](https://cloud.githubusercontent.com/assets/14321/11421312/41cf7984-9434-11e5-883a-a718f9d0a69e.png)
+![Screenshot](/screenshot.png)
 
 ## Installation
 
