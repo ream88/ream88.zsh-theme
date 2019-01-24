@@ -1,4 +1,4 @@
-PROMPT='%3~ ► '
+PROMPT="%3~ %{$fg[blue]%}►%{$reset_color%} "
 PROMPT2='◀︎ '
 RPROMPT='$(git_prompt_info)$(git_prompt_status)'
 
