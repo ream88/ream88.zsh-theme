@@ -1,5 +1,5 @@
 PROMPT="%3~ %{$fg[blue]%}►%{$reset_color%} "
-PROMPT2='◀︎ '
+PROMPT2='%{$fg[blue]%}◀︎%{$reset_color%} '
 RPROMPT='$(git_prompt_info)$(git_prompt_status)'
 
 ZSH_THEME_GIT_PROMPT_DIRTY=" %{$fg[red]%}✗%{$reset_color%}"
